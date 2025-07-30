@@ -1,0 +1,2 @@
+### Airbnb_InstantBooking_Prediction_Lab9.ipynb  
+This notebook predicts whether an Airbnb listing is instantly bookable using supervised machine learning. It includes data cleaning, feature selection, class imbalance handling, model training (Logistic Regression and Random Forest), and hyperparameter tuning. The final model achieves strong performance and offers insights into the factors that influence instant booking.
